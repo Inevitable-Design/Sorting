@@ -1,6 +1,6 @@
 public class bubblesort {  
 	
-    static void bubbleSort(int[] array1) {  
+    static void bubbleSort(int[] array1) {
         int n = array1.length;  
         int t = 0;  
         for(int a=0; a < n; a++){  
