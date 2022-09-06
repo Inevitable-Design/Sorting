@@ -14,6 +14,7 @@ public class bubblesort {
                 }  
         }  
     }  
+    
     public static void main(String[] args) {  
                 int array1[] ={3,60,35,2,45,320,5};  
                 
